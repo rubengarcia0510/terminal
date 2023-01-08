@@ -1,7 +1,7 @@
 image: okteto/terminal
 port: 8080
-nameOverride: ""
-fullnameOverride: "" 
+name: "terminal"
+fullname: "ruben" 
 
 ingress:
   enabled: true
